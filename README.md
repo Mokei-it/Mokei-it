@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mokei-it
-- 👀 I’m interested in devolping projects in Laravel
+- 👀 I’m interested in software devolping
 - 🌱 I’m currently learning Laravel ecosystem
-- 💞️ I’m looking to collaborate on digitize small and medium-sized north Italian industries
+- 💞️ I’m looking to collaborate on digitization of small and medium-sized Italian firms
 - 📫 How to reach me www.mokei.it
 
 <!---
